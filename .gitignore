@@ -1,0 +1,15 @@
+/.bundle
+/vendor/bundle
+/node_modules
+/spec/tmp/*
+
+# The usual suspects
+Thumbs.db
+Desktop.ini
+__MACOSX
+.DS_Store
+*.tmproj
+*.swp
+*~
+*.bak
+tags
